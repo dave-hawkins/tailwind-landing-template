@@ -1,3 +1,5 @@
+![Template preview](https://raw.githubusercontent.com/dave-hawkins/tailwind-landing-template/master/preview.png)
+
 # Tailwind landing page
 
 An open source TailwindCSS landing page template.

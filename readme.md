@@ -9,6 +9,10 @@ An open source TailwindCSS landing page template.
 
 This project was scaffolded with [create-vite](https://vitejs.dev/guide/) but the entirety of the code is available in the `index.html` file, and was designed to slot easily into any default Tailwind project like [here](https://play.tailwindcss.com/OkwxtOLXCj), on a Tailwind playground link. The biggest customisation outside of this is the inclusion of the Inter font.
 
+### Notes
+
+I am more designer than developer and this is the first thing I've ever really open sourced, please feel free to suggest changes, and call out any mistakes that have been made.
+
 ## Installation
 
 If you'd like to play around with this repo, follow the steps below.
@@ -36,9 +40,5 @@ Run the server
 ```bash
   npm run dev
 ```
-
-#### Note
-
-I am more designer than developer and this is the first thing I've ever really open sourced, please feel free to suggest changes, and call out any mistakes that have been made.
 
 If you use this template for something, please tell me. I'd love to see it going to good use!
